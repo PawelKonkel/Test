@@ -1,0 +1,31 @@
+
+
+
+
+h1
+{
+  color: red;
+  font-size: 26px;
+  
+
+
+
+}
+
+
+#page
+{
+  margin: 0 auto;
+  width: 960px;
+  color: white;
+  background-color: grey;
+  height: 1800px;
+   text-align: center;;
+}
+
+p
+{
+  font-size: 20px;
+
+
+}
