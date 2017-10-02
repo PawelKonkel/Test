@@ -4,9 +4,9 @@
 
 h1
 {
-  color: red;
+  color: blue;
   font-size: 26px;
-  
+
 
 
 
@@ -16,7 +16,7 @@ h1
 #page
 {
   margin: 0 auto;
-  width: 960px;
+  width: 1200px;
   color: white;
   background-color: grey;
   height: 1800px;
